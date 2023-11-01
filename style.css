@@ -730,7 +730,7 @@ html::-webkit-scrollbar-thumb {
 
 /* responsive----------------------------- */
 @media (max-width: 768px){
-    .header #menü-btn{
+    .header #menu-btn{
         display: inline-block;
     }
 .header .navbar {
